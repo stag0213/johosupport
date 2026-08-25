@@ -11,12 +11,19 @@ Light / Dark テーマ切替
 単一ページ構成
 
 ファイル構成
-Copyindex.html
+index.html
+
 assets/
+
   thumb-01.jpg
+  
   thumb-02.jpg
+  
   ...
+  
   thumb-13.jpg
+  
 README.md
+
 備考
 このページは教材閲覧用に再構築した HTML 版です。教材本体へのリンクは各カードから利用できます。
