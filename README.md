@@ -21,7 +21,7 @@ assets/
   
   ...
   
-  thumb-13.jpg
+  thumb-14.jpg
   
 README.md
 
